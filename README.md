@@ -1,4 +1,6 @@
-[![MasterHead](https://github.com/beto1810/beto1810/blob/main/Dat1.gif)]
+
+ <h1 align="center"> <img src="https://github.com/beto1810/beto1810/blob/d2b6754dabfbe7ba829db851a9bd3d4cfaa97ce2/Fira%20Code.gif" alt="Image" width="700" height="700"></h1>
+
 <h1 align="center">Hi 👋, I'm Dat Nguyen</h1>
 <h3 align="center">A Fresher - Entry Level - Starter in Data Analyst</h3>
 
